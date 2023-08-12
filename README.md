@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varsharani9&label=Profile%20views&color=0e75b6&style=flat" alt="varsharani9" /> </p>
 
 <div align="left">
-  <img align="right" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" />
   
 - 🔭 I’m currently working on Social Media Application
 
